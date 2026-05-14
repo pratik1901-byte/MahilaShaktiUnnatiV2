@@ -1,0 +1,43 @@
+<resources>
+
+    <string name="app_name">MahilaShaktiUnnati</string>
+
+    <string name="home">Home</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="members">Members</string>
+    <string name="loans">Loans</string>
+    <string name="learn">Learn</string>
+
+    <string name="happy_learning">Happy Learning!</string>
+
+    <string name="search_topics">Search financial topics</string>
+
+    <string name="no_results">Ooops! Could not find it :(</string>
+
+    <string name="try_google">Maybe try searching here</string>
+
+    <string name="welcome_user">
+        Welcome, %1$s
+    </string>
+
+    <string name="app_subtitle">
+        Digital Accountant for SHGs
+    </string>
+
+    <string name="total_members">
+        Total Members
+    </string>
+
+    <string name="total_savings">
+        Total Savings
+    </string>
+
+    <string name="active_loans">
+        Active Loans
+    </string>
+
+    <string name="group_capital">
+        Group Capital
+    </string>
+
+</resources>
